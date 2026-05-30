@@ -69,6 +69,5 @@ public class CreateASet {
             i++;
         }
         return good;        
-    }
-    
+    add first linee   
 }
